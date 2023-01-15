@@ -34,7 +34,7 @@
 - 👋 Hi, I’m Van
 - 👀 I’m interested in coding
 - 🌱 I’m currently studying at HCMUS - University of Science
-- 💞️ My major is Solfware engineering 
+- 💞️ My major is Software engineering 
 
 ---
 
