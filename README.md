@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/v%C4%83n-nguy%E1%BB%85n-%C4%91%C3%ACnh-b76229218">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@Vawnndv/videos">
